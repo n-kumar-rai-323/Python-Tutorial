@@ -28,8 +28,6 @@ print(num2, 'is of type', type(num2))
 
 num3 = 1+2j
 print(num3, 'is of type', type(num3))
-Run Code
-Output
 
 5 is of type <class 'int'>
 2.0 is of type <class 'float'>
@@ -60,7 +58,8 @@ print(languages[0])   # Swift
 
 # access element at index 2
 print(languages[2])   # Python
-Run Code
+
+
 In the above example, we have used the index values to access items from the languages list.
 
 languages[0] - access first item from languages i.e. Swift
@@ -86,7 +85,7 @@ print(product[0])   # Microsoft
 
 # access element at index 1
 print(product[1])   # Xbox
-Run Code
+
 To learn more about tuples, visit Python Tuples.
 
 Python String Data Type
@@ -97,8 +96,7 @@ print(name)
 
 message = 'Python for beginners'
 print(message)
-Run Code
-Output
+
 
 Python
 Python for beginners
@@ -117,8 +115,7 @@ print(student_id)
 
 # display type of student_id
 print(type(student_id))
-Run Code
-Output
+
 
 {112, 114, 115, 116, 118}
 <class 'set'>
